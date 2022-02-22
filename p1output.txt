@@ -1,1 +1,8 @@
-
+ gcc -g p1original.c -lm
+ ./a.out
+Enter the value 
+23
+29
+04
+03
+Therefore the distance between points are 6.082763 
