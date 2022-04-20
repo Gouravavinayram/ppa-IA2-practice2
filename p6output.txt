@@ -1,1 +1,4 @@
-
+gcc -g p6original.c
+ ./a.out
+enter the string :3
+the reversea of thr string is :3
