@@ -1,1 +1,7 @@
+gcc -g p3original.c
+ ./a.out
+enter n value
+5
+NOT COMPOSITE 
+
 
