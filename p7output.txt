@@ -1,1 +1,6 @@
+gcc -g p7original.c
+ ./a.out
+enter the values of base and altitude :5
+2
+area of triangle with base =5.000 and altitude =2.000 is 5.000 
 
